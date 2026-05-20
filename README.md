@@ -1,124 +1,130 @@
 <div align="center">
 
-# 👋 Hi, I'm Ananya Surendra Kale
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Ananya%20Surendra%20Kale&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Java%20Developer&descAlignY=58&descAlign=50"/>
 
-## 🚀 Full Stack Developer | AI/ML Enthusiast | Java Developer | Data Visualization Expert
+# 👋 Welcome To My GitHub Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+Developer;Tableau+Dashboard+Creator;Problem+Solver;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+Developer;Problem+Solver;Tableau+Dashboard+Creator;Always+Learning+New+Technologies" />
 
----
+<br>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Anannya1804&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering Student at **MIT-WPU, Pune**  
-💻 Passionate about **Full Stack Development, AI/ML, and Java Development**  
-📊 Strong hands-on experience with **Tableau & Data Visualization**  
-🚀 Love building real-world projects and solving problems through technology  
-🏆 Active participant in Hackathons, Coding Contests & Technical Workshops  
-⚡ Focused, disciplined, and always eager to learn new technologies  
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 B.Tech CSE Student at **MIT-WPU, Pune**  
+💻 Passionate about **Full Stack Development, AI/ML & Java Development**  
+📊 Highly skilled in **Tableau & Data Visualization**  
+🚀 Building real-world projects using modern technologies  
+🏆 Hackathon Participant & Coding Enthusiast  
+⚡ Focused, disciplined & always eager to learn  
 
 ---
 
-# 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-## 👨‍💻 Programming Languages
-- C
-- C++
-- Java
-- Python
+<div align="center">
 
-## 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Full Stack Java
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,html,css,mysql,git,github,vscode,eclipse" />
 
-## 🤖 AI/ML & Data Analytics
-- Machine Learning
-- Artificial Intelligence
-- OpenCV
-- Tableau
-- Data Visualization
-
-## 🛠️ Tools & Technologies
-- GitHub
-- VS Code
-- Eclipse IDE
-- Java Swing
-- AWT
-- MySQL
+</div>
 
 ---
 
 # 🌟 Featured Projects
 
 ## 🤖 AI-Based Online Proctored Examination System
-Developed an AI-powered online examination monitoring system using Python, Machine Learning, and OpenCV for suspicious activity detection and automated exam monitoring.
+🔹 AI-powered online examination monitoring system using Python, Machine Learning & OpenCV  
+🔹 Real-time suspicious activity detection & face monitoring  
+🔹 Automated online exam security enhancement  
+
+---
 
 ## 💼 Placement Management System
-Java-based desktop application developed using Swing, AWT, and File Handling for managing student placements and recruitment activities.
+🔹 Java desktop application using Swing, AWT & File Handling  
+🔹 Manages placement records, student details & recruitment activities  
+🔹 Future scope includes AI, ML & Blockchain integration  
+
+---
 
 ## 🛒 SneekSphere – E-Commerce Website
-Responsive full-stack e-commerce website developed using React.js, JavaScript, HTML, and CSS with modern UI and shopping functionalities.
+🔹 Responsive full-stack e-commerce website  
+🔹 Developed using React.js, JavaScript, HTML & CSS  
+🔹 Modern UI with shopping & product management functionalities  
+
+---
 
 ## 📊 Swiggy vs Zomato Dashboard
-Interactive Tableau dashboard comparing business analytics, customer ratings, and delivery insights using data visualization techniques.
+🔹 Interactive Tableau dashboard for business analytics  
+🔹 Visualized customer ratings, delivery trends & insights  
+🔹 Focused on data storytelling & visualization techniques  
 
 ---
 
 # 🏆 Achievements
 
-🏅 Participated in Smart India Hackathon  
-🏅 Active participant in CodeChef contests  
-🏅 Team Leader for semester mini projects  
-🏅 Topped Theory of Computation (TOC) subject  
-🏅 Captain of school basketball team  
-🏅 Secured first positions in Basketball, Football, Badminton & Swimming  
+🏅 Smart India Hackathon Participant  
+🏅 Active Participant in CodeChef Contests  
+🏅 Team Leader for Semester Mini Projects  
+🏅 Topped Theory of Computation (TOC)  
+🏅 Captain of School Basketball Team  
+🏅 Winner in Basketball, Football, Badminton & Swimming  
 
 ---
 
 # 📜 Certifications
 
-✔️ C Programming  
-✔️ C++ Programming  
-✔️ Java Programming  
-✔️ Python Programming  
-✔️ Full Stack Java  
-✔️ Ethical Hacking  
+✅ C Programming  
+✅ C++ Programming  
+✅ Java Programming  
+✅ Python Programming  
+✅ Full Stack Java  
+✅ Ethical Hacking  
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anannya1804&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anannya1804&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 # 🌍 Connect With Me
 
-🔗 LinkedIn:  
-https://www.linkedin.com/in/ananya-kale-634415252/
+<div align="center">
 
-💻 GitHub:  
-https://github.com/Anannya1804
+<a href="https://www.linkedin.com/in/ananya-kale-634415252/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📧 Email:  
-ananyakale2004@gmail.com
+<a href="mailto:ananyakale2004@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Anannya1804">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-# ⭐ Thank You For Visiting My Profile ⭐
+## ⭐ Thank You For Visiting My Profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 </div>
