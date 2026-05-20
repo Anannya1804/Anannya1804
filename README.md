@@ -1,52 +1,44 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:334155&text=Ananya%20Surendra%20Kale&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Java%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1F2937,100:374151&height=260&section=header&text=Ananya%20Surendra%20Kale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Java%20Developer&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+Developer;Tableau+Dashboard+Creator;Problem+Solver;Building+Innovative+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+Developer;Tableau+Dashboard+Creator;Building+Real+World+Projects" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Anannya1804&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
+<a href="https://komarev.com/ghpvc/?username=Anannya1804">
+<img src="https://komarev.com/ghpvc/?username=Anannya1804&label=Profile%20Views&color=3B82F6&style=flat-square"/>
+</a>
 
 </div>
 
-<br><br>
+&nbsp;
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 🎓 B.Tech Computer Science Engineering Student at **MIT-WPU, Pune**  
 
-💡 Passionate about **Full Stack Development, AI/ML, and Java Development**  
+💻 Passionate about **Full Stack Development, AI/ML & Java Development**  
 
-📊 Highly skilled in **Tableau & Data Visualization**  
+📊 Strong hands-on experience with **Tableau & Data Visualization**  
 
-🚀 Building scalable and real-world software projects using modern technologies  
+🚀 Love building real-world projects using modern technologies  
 
 🏆 Active participant in Hackathons, Coding Contests & Technical Workshops  
 
-⚡ Focused, disciplined, and continuously learning new technologies  
+⚡ Focused, disciplined & always eager to learn new technologies  
 
-🌱 Currently improving my skills in:
+🌱 Currently learning advanced:
 - Data Structures & Algorithms
 - Core CS Subjects
 - AI-Assisted Development
 - Advanced Full Stack Development
 
-<br><br>
-
-<div align="center">
-
-✦ ✦ ✦ ✦ ✦
-
-</div>
-
-<br><br>
-
-# ⚡ Tech Stack
+&nbsp;
 
 <div align="center">
 
@@ -54,56 +46,29 @@
 
 </div>
 
-<br><br>
+&nbsp;
 
-<div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| 💻 Languages | C, C++, Java, Python |
-| 🌐 Web Development | HTML, CSS, JavaScript, React.js, Full Stack Java |
-| 🤖 AI/ML | Machine Learning, OpenCV, Artificial Intelligence |
-| 📊 Data Analytics | Tableau, Dashboard Development |
-| 🛠 Tools | GitHub, VS Code, Eclipse IDE |
-| 🗄 Database | MySQL, File Handling |
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216656979-9cb4e2f8-5b16-4f8e-9f6c-6b4a7b8f5c5e.gif" width="100%"/>
-
-</div>
-
-<br><br>
-
-# 🚀 Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-## 🤖 AI-Based Online Proctored Examination System
+### 🤖 AI-Based Online Proctored Examination System
 
-✔️ Developed using Python, Machine Learning & OpenCV  
-✔️ Real-time face monitoring & suspicious activity detection  
-✔️ Automated online examination security system  
-✔️ AI-powered monitoring solution  
+- Developed using Python, Machine Learning & OpenCV  
+- Real-time face monitoring and suspicious activity detection  
+- AI-powered automated exam security system  
 
 </td>
 
 <td width="50%">
 
-## 💼 Placement Management System
+### 💼 Placement Management System
 
-✔️ Java Desktop Application using Swing & AWT  
-✔️ Placement & Recruitment Record Management  
-✔️ File Handling using `.dat` storage  
-✔️ Future scope with AI, ML & Blockchain  
+- Java desktop application using Swing & AWT  
+- Placement & recruitment record management  
+- Future scope with AI, ML & Blockchain integration  
 
 </td>
 </tr>
@@ -111,66 +76,65 @@
 <tr>
 <td width="50%">
 
-## 🛒 SneekSphere – E-Commerce Website
+### 🛒 SneekSphere – E-Commerce Website
 
-✔️ Responsive Full Stack E-Commerce Platform  
-✔️ Developed using React.js & JavaScript  
-✔️ Modern UI & Shopping Functionalities  
-✔️ User-Friendly Frontend Experience  
+- Responsive full-stack e-commerce platform  
+- Built using React.js, JavaScript, HTML & CSS  
+- Modern shopping functionalities & UI  
 
 </td>
 
 <td width="50%">
 
-## 📊 Swiggy vs Zomato Dashboard
+### 📊 Swiggy vs Zomato Dashboard
 
-✔️ Interactive Tableau Dashboard  
-✔️ Business Insights & Data Visualization  
-✔️ Delivery & Customer Trend Analysis  
-✔️ Data Storytelling & Analytics  
+- Interactive Tableau dashboard  
+- Business analytics & customer trend visualization  
+- Data storytelling & insights generation  
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br><br>
+&nbsp;
 
 <div align="center">
 
-✦ ✦ ✦ ✦ ✦
+<img width="80%" src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png">
 
 </div>
 
-<br><br>
+&nbsp;
 
-# 🏆 Achievements
+## 🛠️ Tech Stack
 
 <div align="center">
+
+| Category | Technologies |
+|---|---|
+| 💻 Languages | C, C++, Java, Python |
+| 🌐 Web Development | HTML, CSS, JavaScript, React.js, Full Stack Java |
+| 🤖 AI/ML | Machine Learning, OpenCV, Artificial Intelligence |
+| 📊 Data Analytics | Tableau, Dashboard Development |
+| 🗄️ Database | MySQL, File Handling |
+| 🛠️ Tools | GitHub, VS Code, Eclipse IDE |
+
+</div>
+
+&nbsp;
+
+## 🏆 Achievements
 
 🥇 Smart India Hackathon Participant  
-🥇 Active Participant in CodeChef Contests  
-🥇 Team Leader for Semester Mini Projects  
-🥇 Topped Theory of Computation (TOC) Subject  
-🥇 Captain of School Basketball Team  
+🥇 Active participant in CodeChef contests  
+🥇 Team Leader for semester mini projects  
+🥇 Topped Theory of Computation (TOC) subject  
+🥇 Captain of school basketball team  
 🥇 Winner in Basketball, Football, Badminton & Swimming  
 
-</div>
+&nbsp;
 
-<br><br>
-
-<div align="center">
-
-✦ ✦ ✦ ✦ ✦
-
-</div>
-
-<br><br>
-
-# 📜 Certifications
-
-<div align="center">
+## 📜 Certifications
 
 ✅ C Programming  
 ✅ C++ Programming  
@@ -179,43 +143,41 @@
 ✅ Full Stack Java  
 ✅ Ethical Hacking  
 
-</div>
-
-<br><br>
+&nbsp;
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216656979-9cb4e2f8-5b16-4f8e-9f6c-6b4a7b8f5c5e.gif" width="100%"/>
+<img width="80%" src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png">
 
 </div>
 
-<br><br>
+&nbsp;
 
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anannya1804&show_icons=true&theme=github_dark&hide_border=true&border_radius=15"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anannya1804&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anannya1804&theme=github-dark-blue&hide_border=true&border_radius=15"/>
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anannya1804&theme=github-dark&hide_border=true"/>
 
 <br><br>
 
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anannya1804&theme=github-compact&hide_border=true"/>
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anannya1804&theme=github-compact&hide_border=true"/>
 
 </div>
 
-<br><br>
+&nbsp;
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216656979-9cb4e2f8-5b16-4f8e-9f6c-6b4a7b8f5c5e.gif" width="100%"/>
+<img width="80%" src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png">
 
 </div>
 
-<br><br>
+&nbsp;
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -233,12 +195,10 @@
 
 </div>
 
-<br><br>
+&nbsp;
 
 <div align="center">
 
-# ⭐ Thank You For Visiting My Profile ⭐
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1E293B,100:334155"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1F2937,100:374151&height=120&section=footer"/>
 
 </div>
