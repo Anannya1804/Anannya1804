@@ -1,89 +1,160 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ananya%20Surendra%20Kale&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Java%20Developer&descAlignY=60"/>
-
-# 👋 Welcome To My GitHub Profile
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+Developer;Tableau+Dashboard+Creator;Problem+Solver;Always+Learning+New+Technologies" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:334155&text=Ananya%20Surendra%20Kale&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Java%20Developer&descAlignY=58"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Anannya1804&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+Developer;Tableau+Dashboard+Creator;Problem+Solver;Building+Innovative+Projects" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Anannya1804&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" />
 
 </div>
 
----
+<br><br>
 
-# 🚀 About Me
+# 👩‍💻 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
-🎓 B.Tech CSE Student at **MIT-WPU, Pune**  
+🎓 B.Tech Computer Science Engineering Student at **MIT-WPU, Pune**  
 
-💻 Passionate about **Full Stack Development, AI/ML & Java Development**  
+💡 Passionate about **Full Stack Development, AI/ML, and Java Development**  
 
-📊 Strong hands-on experience with **Tableau & Data Visualization**  
+📊 Highly skilled in **Tableau & Data Visualization**  
 
-🚀 Building real-world projects using modern technologies  
+🚀 Building scalable and real-world software projects using modern technologies  
 
-🏆 Active participant in Hackathons & Coding Contests  
+🏆 Active participant in Hackathons, Coding Contests & Technical Workshops  
 
-⚡ Focused, disciplined & always eager to learn new technologies  
+⚡ Focused, disciplined, and continuously learning new technologies  
 
----
+🌱 Currently improving my skills in:
+- Data Structures & Algorithms
+- Core CS Subjects
+- AI-Assisted Development
+- Advanced Full Stack Development
 
-# 🛠️ Tech Stack
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<br><br>
+
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,git,github,vscode,eclipse"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,git,github,vscode,eclipse" />
 
 </div>
 
----
+<br><br>
 
-# 🌟 Featured Projects
+<div align="center">
+
+| Category | Technologies |
+|----------|--------------|
+| 💻 Languages | C, C++, Java, Python |
+| 🌐 Web Development | HTML, CSS, JavaScript, React.js, Full Stack Java |
+| 🤖 AI/ML | Machine Learning, OpenCV, Artificial Intelligence |
+| 📊 Data Analytics | Tableau, Dashboard Development |
+| 🛠 Tools | GitHub, VS Code, Eclipse IDE |
+| 🗄 Database | MySQL, File Handling |
+
+</div>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<br><br>
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
 
 ## 🤖 AI-Based Online Proctored Examination System
-- Developed using Python, Machine Learning & OpenCV  
-- Real-time face monitoring and suspicious activity detection  
-- Automated online exam security system  
 
----
+✔️ Developed using Python, Machine Learning & OpenCV  
+✔️ Real-time face monitoring & suspicious activity detection  
+✔️ Automated online examination security system  
+✔️ AI-powered monitoring solution  
+
+</td>
+
+<td width="50%">
 
 ## 💼 Placement Management System
-- Java desktop application using Swing, AWT & File Handling  
-- Manages student placements and recruitment activities  
-- Future scope includes AI, ML & Blockchain integration  
 
----
+✔️ Java Desktop Application using Swing & AWT  
+✔️ Placement & Recruitment Record Management  
+✔️ File Handling using `.dat` storage  
+✔️ Future scope with AI, ML & Blockchain  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ## 🛒 SneekSphere – E-Commerce Website
-- Responsive full-stack e-commerce website  
-- Developed using React.js, JavaScript, HTML & CSS  
-- Modern UI with shopping functionalities  
 
----
+✔️ Responsive Full Stack E-Commerce Platform  
+✔️ Developed using React.js & JavaScript  
+✔️ Modern UI & Shopping Functionalities  
+✔️ User-Friendly Frontend Experience  
+
+</td>
+
+<td width="50%">
 
 ## 📊 Swiggy vs Zomato Dashboard
-- Interactive Tableau dashboard for data visualization  
-- Business insights, ratings analysis & delivery trends  
-- Focused on analytical storytelling  
 
----
+✔️ Interactive Tableau Dashboard  
+✔️ Business Insights & Data Visualization  
+✔️ Delivery & Customer Trend Analysis  
+✔️ Data Storytelling & Analytics  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<br><br>
 
 # 🏆 Achievements
 
-🏅 Smart India Hackathon Participant  
-🏅 Active participant in CodeChef contests  
-🏅 Team Leader for semester mini projects  
-🏅 Topped Theory of Computation (TOC) subject  
-🏅 Captain of school basketball team  
-🏅 Winner in Basketball, Football, Badminton & Swimming  
+<div align="center">
 
----
+🥇 Smart India Hackathon Participant  
+🥇 Active Participant in CodeChef Contests  
+🥇 Team Leader for Semester Mini Projects  
+🥇 Topped Theory of Computation (TOC) Subject  
+🥇 Captain of School Basketball Team  
+🥇 Winner in Basketball, Football, Badminton & Swimming  
+
+</div>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<br><br>
 
 # 📜 Certifications
+
+<div align="center">
 
 ✅ C Programming  
 ✅ C++ Programming  
@@ -92,21 +163,35 @@
 ✅ Full Stack Java  
 ✅ Ethical Hacking  
 
----
+</div>
 
-# 📈 GitHub Stats
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<br><br>
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anannya1804&show_icons=true&theme=default&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anannya1804&show_icons=true&theme=github_dark&hide_border=true&border_radius=15"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anannya1804&theme=default&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anannya1804&theme=github-dark-blue&hide_border=true&border_radius=15"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anannya1804&theme=github-compact&hide_border=true"/>
 
 </div>
 
----
+<br><br>
 
-# 🌍 Connect With Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
+<br><br>
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -124,12 +209,12 @@
 
 </div>
 
----
+<br><br>
 
 <div align="center">
 
-## ⭐ Thank You For Visiting My Profile ⭐
+# ⭐ Thank You For Visiting My Profile ⭐
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,50:1E293B,100:334155"/>
 
 </div>
