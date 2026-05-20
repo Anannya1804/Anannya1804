@@ -98,9 +98,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anannya1804&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anannya1804&show_icons=true&theme=default&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anannya1804&theme=transparent&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anannya1804&theme=default&hide_border=true"/>
 
 </div>
 
