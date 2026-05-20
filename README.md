@@ -98,14 +98,6 @@
 
 &nbsp;
 
-<div align="center">
-
-<img width="80%" src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png">
-
-</div>
-
-&nbsp;
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -145,14 +137,6 @@
 
 &nbsp;
 
-<div align="center">
-
-<img width="80%" src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png">
-
-</div>
-
-&nbsp;
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -164,14 +148,6 @@
 <br><br>
 
 <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anannya1804&theme=github-compact&hide_border=true"/>
-
-</div>
-
-&nbsp;
-
-<div align="center">
-
-<img width="80%" src="https://github.com/andreasbm/readme/raw/master/assets/lines/rainbow.png">
 
 </div>
 
