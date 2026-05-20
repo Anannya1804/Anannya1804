@@ -38,7 +38,11 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<div align="center">
+
+✦ ✦ ✦ ✦ ✦
+
+</div>
 
 <br><br>
 
@@ -67,7 +71,11 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656979-9cb4e2f8-5b16-4f8e-9f6c-6b4a7b8f5c5e.gif" width="100%"/>
+
+</div>
 
 <br><br>
 
@@ -129,7 +137,11 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<div align="center">
+
+✦ ✦ ✦ ✦ ✦
+
+</div>
 
 <br><br>
 
@@ -148,7 +160,11 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<div align="center">
+
+✦ ✦ ✦ ✦ ✦
+
+</div>
 
 <br><br>
 
@@ -167,7 +183,11 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656979-9cb4e2f8-5b16-4f8e-9f6c-6b4a7b8f5c5e.gif" width="100%"/>
+
+</div>
 
 <br><br>
 
@@ -187,7 +207,11 @@
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656979-9cb4e2f8-5b16-4f8e-9f6c-6b4a7b8f5c5e.gif" width="100%"/>
+
+</div>
 
 <br><br>
 
