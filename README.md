@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Ananya%20Surendra%20Kale&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Java%20Developer&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ananya%20Surendra%20Kale&fontSize=42&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast%20|%20Java%20Developer&descAlignY=60"/>
 
 # 👋 Welcome To My GitHub Profile
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+Developer;Problem+Solver;Tableau+Dashboard+Creator;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+Developer;Tableau+Dashboard+Creator;Problem+Solver;Always+Learning+New+Technologies" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Anannya1804&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Anannya1804&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
@@ -16,14 +16,19 @@
 
 # 🚀 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 🎓 B.Tech CSE Student at **MIT-WPU, Pune**  
+
 💻 Passionate about **Full Stack Development, AI/ML & Java Development**  
-📊 Highly skilled in **Tableau & Data Visualization**  
+
+📊 Strong hands-on experience with **Tableau & Data Visualization**  
+
 🚀 Building real-world projects using modern technologies  
-🏆 Hackathon Participant & Coding Enthusiast  
-⚡ Focused, disciplined & always eager to learn  
+
+🏆 Active participant in Hackathons & Coding Contests  
+
+⚡ Focused, disciplined & always eager to learn new technologies  
 
 ---
 
@@ -31,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,html,css,mysql,git,github,vscode,eclipse" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,mysql,git,github,vscode,eclipse"/>
 
 </div>
 
@@ -40,40 +45,40 @@
 # 🌟 Featured Projects
 
 ## 🤖 AI-Based Online Proctored Examination System
-🔹 AI-powered online examination monitoring system using Python, Machine Learning & OpenCV  
-🔹 Real-time suspicious activity detection & face monitoring  
-🔹 Automated online exam security enhancement  
+- Developed using Python, Machine Learning & OpenCV  
+- Real-time face monitoring and suspicious activity detection  
+- Automated online exam security system  
 
 ---
 
 ## 💼 Placement Management System
-🔹 Java desktop application using Swing, AWT & File Handling  
-🔹 Manages placement records, student details & recruitment activities  
-🔹 Future scope includes AI, ML & Blockchain integration  
+- Java desktop application using Swing, AWT & File Handling  
+- Manages student placements and recruitment activities  
+- Future scope includes AI, ML & Blockchain integration  
 
 ---
 
 ## 🛒 SneekSphere – E-Commerce Website
-🔹 Responsive full-stack e-commerce website  
-🔹 Developed using React.js, JavaScript, HTML & CSS  
-🔹 Modern UI with shopping & product management functionalities  
+- Responsive full-stack e-commerce website  
+- Developed using React.js, JavaScript, HTML & CSS  
+- Modern UI with shopping functionalities  
 
 ---
 
 ## 📊 Swiggy vs Zomato Dashboard
-🔹 Interactive Tableau dashboard for business analytics  
-🔹 Visualized customer ratings, delivery trends & insights  
-🔹 Focused on data storytelling & visualization techniques  
+- Interactive Tableau dashboard for data visualization  
+- Business insights, ratings analysis & delivery trends  
+- Focused on analytical storytelling  
 
 ---
 
 # 🏆 Achievements
 
 🏅 Smart India Hackathon Participant  
-🏅 Active Participant in CodeChef Contests  
-🏅 Team Leader for Semester Mini Projects  
-🏅 Topped Theory of Computation (TOC)  
-🏅 Captain of School Basketball Team  
+🏅 Active participant in CodeChef contests  
+🏅 Team Leader for semester mini projects  
+🏅 Topped Theory of Computation (TOC) subject  
+🏅 Captain of school basketball team  
 🏅 Winner in Basketball, Football, Badminton & Swimming  
 
 ---
@@ -93,9 +98,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anannya1804&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Anannya1804&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anannya1804&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anannya1804&theme=transparent&hide_border=true"/>
 
 </div>
 
@@ -106,15 +111,15 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ananya-kale-634415252/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ananyakale2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Anannya1804">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -125,6 +130,6 @@
 
 ## ⭐ Thank You For Visiting My Profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </div>
